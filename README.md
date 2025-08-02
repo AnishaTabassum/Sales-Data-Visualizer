@@ -1,4 +1,4 @@
-# Sales-Data-Visualize
+# Data Dynamo
 Project Summary: This project appears to be a sales data analysis tool designed to help businesses make better data-driven decisions. It uses Streamlit for the user interface, allowing users to interact with the data, and employs various libraries like Pandas, Prophet, and Plotly for data manipulation, forecasting, and visualization. The tool offers functionalities for analyzing sales patterns, identifying the best-selling products, detecting anomalies using machine learning algorithms like IsolationForest, and forecasting future sales using Prophet. Key Features:
 
 Sales Data Visualization: The project offers graphical representations (using tools like Plotly and Seaborn) to help visualize top-selling products and sales trends.
